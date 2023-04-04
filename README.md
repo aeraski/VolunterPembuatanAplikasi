@@ -6,3 +6,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Beriikut daftar Volunter yang diterima:
 
 * Oon Arfiandi,[oo.or.id](https://oo.or.id).
+* Izzy Mackenzie,[Linkedin](https://www.linkedin.com/in/izzy-mackenzie/).
